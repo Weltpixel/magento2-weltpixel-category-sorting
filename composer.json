@@ -1,0 +1,19 @@
+{
+    "name": "weltpixel/magento2-weltpixel-category-sorting",
+    "description": "WeltPixel Category Sorting",
+    "require": {
+        "magento/module-catalog": "*"
+    },
+    "type": "magento2-module",
+    "version": "1.15.9",
+    "license": "MIT",
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "WeltPixel\\AdvanceCategorySorting\\": ""
+        }
+    }
+}
+
