@@ -5,7 +5,7 @@
         "magento/module-catalog": "*"
     },
     "type": "magento2-module",
-    "version": "1.15.9",
+    "version": "1.16.0",
     "license": "MIT",
     "autoload": {
         "files": [
